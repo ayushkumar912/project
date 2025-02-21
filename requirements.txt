@@ -1,0 +1,9 @@
+streamlit
+pandas
+transformers
+torch>=2.0.0  
+langchain>=0.0.176 
+langsmith
+sentence-transformers
+faiss-cpu
+langchain-community>=0.0.176 
